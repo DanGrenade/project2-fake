@@ -1,0 +1,25 @@
+<?xml version ="1.0" encoding ="utf-8" ?>
+
+<ButtonConfiguration>
+	<ControlType Name = "KeyboardMouse">
+		<Key Name = "leftKey">A</Key>
+		<Key Name = "rightKey">D</Key>
+		<Key Name = "upKey">W</Key>
+		<Key Name = "downKey">S</Key>
+		
+		<Key Name = "primaryKey">Mouse0</Key>
+		<Key Name = "secondaryKey">Mouse1</Key>
+		
+		<Key Name = "selectKey">E</Key>
+		<Key Name = "backKey">F</Key>
+		<Key Name = "escKey">Escape</Key>
+	</ControlType>
+	<ControlType Name = "Gamepad">
+		<Key Name = "primaryControl">Joystick1Button4</Key>
+		<Key Name = "secondaryControl">Joystick1Button5</Key>
+		
+		<Key Name = "menuControl">Joystick1Button0</Key>
+		<Key Name = "backControl">Joystick1Button1</Key>
+		<Key Name = "escControl">Joystick1Button7</Key>
+	</ControlType>
+</ButtonConfiguration>
