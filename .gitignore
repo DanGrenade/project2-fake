@@ -9,10 +9,10 @@ Temp
 *.pidb
 *.userprefs
 
-project2/Library/cache/*
-project2/Library/metadata/*
-project2/Library/previews/*
-project2/Library/ScriptAssemblies/*
+Project2/Library/cache/*
+Project2/Library/metadata/*
+Project2/Library/previews/*
+Project2/Library/ScriptAssemblies/*
 
 AnnotationManager
 assetDatabase3
